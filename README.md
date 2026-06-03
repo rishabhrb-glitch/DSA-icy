@@ -1,2 +1,0 @@
-# DSA-icy
-DSA Questions
